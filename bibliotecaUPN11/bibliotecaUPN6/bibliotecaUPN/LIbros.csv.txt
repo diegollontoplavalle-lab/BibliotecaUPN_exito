@@ -1,0 +1,51 @@
+Administración|ADM-001|Administración: Una perspectiva global y empresarial|Harold Koontz, Heinz Weihrich|2017|Registrado por Sistema - Auditoría OK
+Administración|ADM-002|Fundamentos de Administración|Stephen P. Robbins, David A. DeCenzo|2015|Registrado por Sistema - Auditoría OK
+Administración|ADM-003|Administración Estratégica|Fred R. David|2013|Registrado por Sistema - Auditoría OK
+Administración y Gestión Comercial|AGC-001|Dirección de Marketing|Philip Kotler, Kevin Lane Keller|2016|Registrado por Sistema - Auditoría OK
+Administración y Gestión Comercial|AGC-002|Gestión de Ventas y Clientes|René Y. Darmon|2012|Registrado por Sistema - Auditoría OK
+Administración y Gestión Comercial|AGC-003|Estrategia Comercial y de Ventas|Josep Alet|2014|Registrado por Sistema - Auditoría OK
+Administración y Gestión del Talento Humano|AGT-001|Gestión del Talento Humano|Idalberto Chiavenato|2020|Registrado por Sistema - Auditoría OK
+Administración y Gestión del Talento Humano|AGT-002|Recursos Humanos: Edición para Latinoamérica|Gary Dessler|2017|Registrado por Sistema - Auditoría OK
+Administración y Gestión del Talento Humano|AGT-003|Comportamiento Organizacional|Stephen P. Robbins, Timothy A. Judge|2017|Registrado por Sistema - Auditoría OK
+Administración y Marketing|ADMKT-001|Marketing de Servicios|Christopher Lovelock, Jochen Wirtz|2015|Registrado por Sistema - Auditoría OK
+Administración y Marketing|ADMKT-002|Marketing Digital y Comercio Electrónico|Dave Chaffey, Fiona Ellis-Chadwick|2019|Registrado por Sistema - Auditoría OK
+Administración y Marketing|ADMKT-003|Comportamiento del Consumidor|Leon G. Schiffman, Leslie Lazar Kanuk|2010|Registrado por Sistema - Auditoría OK
+Administración y Negocios Internacionales|ANI-001|Negocios Internacionales: Competencia en el mercado global|Charles W. L. Hill|2017|Registrado por Sistema - Auditoría OK
+Administración y Negocios Internacionales|ANI-002|Comercio Internacional y Globalización|Paul R. Krugman, Maurice Obstfeld|2016|Registrado por Sistema - Auditoría OK
+Administración y Negocios Internacionales|ANI-003|Logística y Comercio Internacional|Alfonso Hinojosa|2018|Registrado por Sistema - Auditoría OK
+Contabilidad y Finanzas|CF-001|Contabilidad Financiera|Gerardo Guajardo Cantú|2018|Registrado por Sistema - Auditoría OK
+Contabilidad y Finanzas|CF-002|Principios de Administración Financiera|Lawrence J. Gitman, Chad J. Zutter|2016|Registrado por Sistema - Auditoría OK
+Contabilidad y Finanzas|CF-003|Contabilidad de Costos|Charles T. Horngren, Srikant M. Datar|2012|Registrado por Sistema - Auditoría OK
+Ingeniería Ambiental|AMB-001|Introducción a la Ingeniería Ambiental|J. Glynn Henry, Gary W. Heinke|1999|Registrado por Sistema - Auditoría OK
+Ingeniería Ambiental|AMB-002|Ingeniería Ambiental|Mackenzie L. Davis, David A. Cornwell|2013|Registrado por Sistema - Auditoría OK
+Ingeniería Ambiental|AMB-003|Evaluación de Impacto Ambiental|Larry W. Canter|1998|Registrado por Sistema - Auditoría OK
+Ingeniería Industrial|IND-001|Ingeniería Industrial: Métodos, Estándares y Diseño del Trabajo|Andris Freivalds, Benjamin Niebel|2014|Registrado por Sistema - Auditoría OK
+Ingeniería Industrial|IND-002|Administración de Operaciones|Jay Heizer, Barry Render|2014|Registrado por Sistema - Auditoría OK
+Ingeniería Industrial|IND-003|Control de Calidad|Dale H. Besterfield|2009|Registrado por Sistema - Auditoría OK
+Ingeniería Civil|CIV-001|Mecánica de Materiales|Russell C. Hibbeler|2017|Registrado por Sistema - Auditoría OK
+Ingeniería Civil|CIV-002|Diseño de Estructuras de Concreto Armado|Jack C. McCormac|2011|Registrado por Sistema - Auditoría OK
+Ingeniería Civil|CIV-003|Mecánica de Suelos|Braja M. Das|2015|Registrado por Sistema - Auditoría OK
+Ingeniería de Minas|MIN-001|Introducción a la Minería|Howard L. Hartman|2002|Registrado por Sistema - Auditoría OK
+Ingeniería de Minas|MIN-002|Voladura de Rocas y Diseño de Voladuras|Carlos López Jimeno|2003|Registrado por Sistema - Auditoría OK
+Ingeniería de Minas|MIN-003|Geomecánica Aplicada a la Minería|E. Hoek, E. T. Brown|1980|Registrado por Sistema - Auditoría OK
+Ingeniería de Sistemas Computacionales|SIS-001|Código Limpio: Manual de desarrollo ágil de software|Robert C. Martin|2012|Registrado por Sistema - Auditoría OK
+Ingeniería de Sistemas Computacionales|SIS-002|Estructuras de Datos y Algoritmos|Alfred V. Aho, John E. Hopcroft|1988|Registrado por Sistema - Auditoría OK
+Ingeniería de Sistemas Computacionales|SIS-003|Sistemas de Bases de Datos: Conceptos fundamentales|Ramez Elmasri, Shamkant B. Navathe|2016|Registrado por Sistema - Auditoría OK
+Comunicación y Diseño Gráfico|CDG-001|Diseño de Marcas (Branding)|Alina Wheeler|2017|Registrado por Sistema - Auditoría OK
+Comunicación y Diseño Gráfico|CDG-002|Fundamentos del Diseño Gráfico|Gavin Ambrose, Paul Harris|2009|Registrado por Sistema - Auditoría OK
+Comunicación y Diseño Gráfico|CDG-003|Elementos del Diseño Tipográfico|Robert Bringhurst|2012|Registrado por Sistema - Auditoría OK
+Comunicación y Marketing Digital|CMD-001|Marketing 4.0|Philip Kotler, Hermawan Kartajaya|2017|Registrado por Sistema - Auditoría OK
+Comunicación y Marketing Digital|CMD-002|Estrategia de Contenidos Digitales|Joe Pulizzi|2014|Registrado por Sistema - Auditoría OK
+Comunicación y Marketing Digital|CMD-003|Métricas del Marketing Digital|Avinash Kaushik|2010|Registrado por Sistema - Auditoría OK
+Educación Inicial|EDU-001|El Desarrollo del Niño y del Adolescente|Laura E. Berk|2006|Registrado por Sistema - Auditoría OK
+Educación Inicial|EDU-002|Estrategias Didácticas en Educación Infantil|Carmen Ibáñez Sandín|2008|Registrado por Sistema - Auditoría OK
+Educación Inicial|EDU-003|Psicología de la Educación|Anita Woolfolk|2014|Registrado por Sistema - Auditoría OK
+Educación Primaria|EDP-001|Didáctica General para Psicopedagogos|Antonio Medina Rivilla|2009|Registrado por Sistema - Auditoría OK
+Educación Primaria|EDP-002|Planificación Curricular y Evaluación|Frida Díaz Barriga|2010|Registrado por Sistema - Auditoría OK
+Educación Primaria|EDP-003|Aprendizaje Activo en el Aula|Robert J. Marzano|2017|Registrado por Sistema - Auditoría OK
+Nutrición y Dietética|NUT-001|Krause: Nutrición y Dietoterapia|L. Kathleen Mahan, Janice L. Raymond|2017|Registrado por Sistema - Auditoría OK
+Nutrición y Dietética|NUT-002|Nutrición Comunitaria|Javier Aranceta Bartrina|2013|Registrado por Sistema - Auditoría OK
+Nutrición y Dietética|NUT-003|Evaluación del Estado Nutricional|Rosalinda T. Valdés|2015|Registrado por Sistema - Auditoría OK
+Psicología|PSI-001|Introducción a la Psicología|Charles G. Morris, Albert A. Maisto|2014|Registrado por Sistema - Auditoría OK
+Psicología|PSI-002|Psicología Clínica|Douglas A. Bernstein|2011|Registrado por Sistema - Auditoría OK
+Psicología|PSI-003|Manual Diagnóstico y Estadístico DSM-5|APA|2014|Registrado por Sistema - Auditoría OK
